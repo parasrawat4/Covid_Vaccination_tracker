@@ -50,4 +50,4 @@ Total centers in your area is: 4
  23-12-2021   COVISHIELD        18             200
 
 
-                                                                                 Thanks
+                                                      Thanks

@@ -23,16 +23,18 @@ Total centers in your area is: 4
 
 [1] Center Name: SC Majri Mafi
 ------------------------------------------------------------
-   Date      Vaccine Type    Minimum Age    Available
-  ------     -------------   ------------   ----------
- 23-12-2021    COVAXIN          18              0
- 23-12-2021   COVISHIELD        18              0
+   Date         Vaccine Type      Minimum Age      Available
+  ------       -------------     ------------     ----------
+ 23-12-2021      COVAXIN            18               0
+ 
+ 23-12-2021     COVISHIELD          18               0
 
 [2] Center Name: UPHC KARGI
 ------------------------------------------------------------
    Date      Vaccine Type    Minimum Age    Available
   ------     -------------   ------------   ----------
  23-12-2021    COVAXIN          18             249
+ 
  23-12-2021   COVISHIELD        18             200
 
 [3] Center Name: Nehrugram PHC
@@ -40,6 +42,7 @@ Total centers in your area is: 4
    Date      Vaccine Type    Minimum Age    Available
   ------     -------------   ------------   ----------
  23-12-2021   COVISHIELD        18             398
+ 
  23-12-2021    COVAXIN          18             398
 
 [4] Center Name: UPHC Deepnagar
@@ -47,6 +50,7 @@ Total centers in your area is: 4
    Date      Vaccine Type    Minimum Age    Available
   ------     -------------   ------------   ----------
  23-12-2021    COVAXIN          18             250
+ 
  23-12-2021   COVISHIELD        18             200
 
 
